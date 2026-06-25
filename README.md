@@ -7,6 +7,10 @@ This repository contains a small full-stack todo application built to satisfy a 
 The application is intentionally not a single-page app. The frontend uses the Next.js Pages Router and standard HTML anchors for page navigation so that clicking through the application triggers real page loads. Query parameters are read directly from `window.location.search` on the detail page.
 
 The backend is a simple Node.js + Express server with a file-based data store. Todo records are saved in `backend/todos.json`, which keeps the project lightweight and easy to run without a database.
+<img width="1897" height="966" alt="Screenshot 2026-06-25 234722" src="https://github.com/user-attachments/assets/2e447ba4-a12a-46ec-8290-16aa1a6bc4fc" />
+
+<img width="1901" height="965" alt="image" src="https://github.com/user-attachments/assets/63513667-f223-467f-8628-e0f40952f4a9" />
+
 
 ## Tech Stack
 
