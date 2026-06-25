@@ -10,7 +10,7 @@ The backend is a simple Node.js + Express server with a file-based data store. T
 
 ## Tech Stack
 
-- Frontend: Next.js 16, React 19, axios
+- Frontend: Next.js 16, React 19, axios, native
 - Backend: Node.js, Express.js, cors
 - Storage: Local JSON file (`backend/todos.json`)
 - Styling: Inline CSS in the page components
